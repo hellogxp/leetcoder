@@ -1,10 +1,10 @@
 package reverse.integer.local;
 
 /**
- * @Description: TODO
- * @Author chopin
- * @Date 2021/7/13 09:01
- * @Version 1.0
+ * @description: Reverse integer
+ * @author chopin
+ * @date 2021/7/13 09:01
+ * @version 1.0
  */
 public class Solution {
     public static void main(String[] args) {
